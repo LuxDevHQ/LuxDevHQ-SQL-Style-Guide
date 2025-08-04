@@ -2,9 +2,9 @@
 
 ---
 
-LuxDevHQ is a forward-thinking tech academy and talent accelerator based in Nairobi, Kenya. Our mission is to equip Africa's next generation of data professionals with world-class skills in data science, data engineering, artificial intelligence, and modern software development. Through rigorous training, project-based learning, and an active alumni network, we ensure our learners don't just understand concepts — they apply them at scale.
+At [LuxDevHQ](LUXDEVHQ.AI) ourr mission is to equip Africa's next generation of data professionals with world-class skills in data science, data engineering, artificial intelligence, and modern software development.Through rigorous training, project-based learning, and an active alumni network, we ensure our learners don't just understand concepts, they apply them at scale.
 
-This style guide is written collaboratively by five senior data engineers at LuxDevHQ, each with extensive experience in analytics engineering, data modeling, query optimization, ETL pipelines, and BI reporting. It serves as a comprehensive, pragmatic, and opinionated reference for all SQL practitioners — from students to professionals working in high-scale environments.
+This style guide is written collaboratively by engineers and technical trainers at [LuxDevHQ](LUXDEVHQ.AI), each with extensive experience in analytics engineering, data modeling, query optimization, ETL pipelines, and BI reporting. It serves as a comprehensive, pragmatic, and opinionated reference for all SQL practitioners — from students to professionals working in high-scale environments.
 
 ---
 
